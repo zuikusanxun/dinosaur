@@ -1,0 +1,6 @@
+﻿  源.c
+e:\c语言相关\洛谷\project8\project8\源.c(9): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+e:\c语言相关\洛谷\project8\project8\源.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  e:\c语言相关\洛谷\project8\project8\源.c(17): note: 请考虑在格式字符串中使用“%lld”
+  e:\c语言相关\洛谷\project8\project8\源.c(17): note: 请考虑在格式字符串中使用“%I64d”
+  Project8.vcxproj -> E:\c语言相关\洛谷\Project8\Debug\Project8.exe

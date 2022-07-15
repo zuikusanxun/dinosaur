@@ -1,0 +1,3 @@
+﻿  源.cpp
+e:\c语言相关\洛谷\project16\project16\源.cpp(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Project16.vcxproj -> E:\c语言相关\洛谷\Project16\Debug\Project16.exe
